@@ -1,0 +1,17 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "d3-shape": "^1.2.0",
+    "expo": "^27.0.1",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-27.0.0.tar.gz",
+    "react-native-highcharts": "^1.0.2",
+    "react-native-loading-spinner-overlay": "^0.5.2",
+    "react-native-pathjs-charts": "0.0.34",
+    "react-native-svg-charts": "^5.0.0",
+    "react-native-textinput-effects": "^0.4.2",
+    "react-native-vector-icons": "^4.6.0",
+    "react-navigation": "^2.0.1"
+  }
+}
